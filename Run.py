@@ -51,7 +51,6 @@ class RPassword:
         return pass_list
 
 
-
     def gen(self):
         """Main loop of program."""
         while 1:
